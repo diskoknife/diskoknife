@@ -9,9 +9,13 @@ for critical banking services.
 ### Stack
 
 **Cloud & Orchestration:** GCP/GKE, AWS, Azure, Kubernetes, Helm, Kustomize
+
 **IaC:** Terraform, Packer, Ansible
-**CI/CD:** CircleCI, GitLab CI, Cloud Build, Jenkins
+
+**CI/CD:** CircleCI, GitLab CI, Cloud Build, Azure DevOPs
+
 **Observability:** Prometheus, Grafana, DataDog, PagerDuty, ELK, Loki
+
 **Languages:** Python, Bash, SQL
 
 ### Currently
