@@ -1,4 +1,4 @@
-## Hi, I'm Viacheslav
+## Hi, I'm Slava
 
 DevOps Engineer with 5+ years of experience across GCP, AWS, and Azure.
 Sole DevOps at a US startup — designed GCP infrastructure from scratch,
