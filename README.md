@@ -1,26 +1,26 @@
 ## Hi, I'm Viacheslav
 
-<!-- DevOps / Platform Engineer based in Kraków -->
-
-DevOps Engineer with 5+ years of experience building
-and operating infrastructure on GCP/GKE. I focus on
-reliability, automation, and clean infrastructure as code.
+DevOps Engineer with 5+ years of experience across GCP, AWS, and Azure.
+Sole DevOps at a US startup — designed GCP infrastructure from scratch,
+led AWS→GCP migration, and served as primary contact for ISO 27001/27017/27018/27701 audits.
+Previously at PUMB bank managing Kafka on AWS and building Terraform modules
+for critical banking services.
 
 ### Stack
 
-**Cloud & Orchestration:** GCP, GKE, AWS, Kubernetes, Helm
-**IaC:** Terraform, Packer
-**CI/CD:** CircleCI, GitLabCI, GitHub Actions, ArgoCD
-**Observability:** Prometheus, Grafana, Alertmanager, ELK
-**Data:** MongoDB Atlas, Redis (Standalone → Sentinel → Cluster)
+**Cloud & Orchestration:** GCP/GKE, AWS, Azure, Kubernetes, Helm, Kustomize
+**IaC:** Terraform, Packer, Ansible
+**CI/CD:** CircleCI, GitLab CI, Cloud Build, Jenkins
+**Observability:** Prometheus, Grafana, DataDog, PagerDuty, ELK, Loki
+**Languages:** Python, Bash, SQL
 
 ### Currently
 
-- Preparing for **CKA** — building a hands-on K8s lab
+- Studying for **CKA** — building a hands-on lab with kind + kubeadm
 - Exploring chaos engineering with Chaos Mesh
 - Open to **DevOps / SRE / Platform Engineer** roles in Europe
- 
 
-### Links
+### Contact
 
-[diskoknife.jetbrains.space](https://diskoknife.jetbrains.space)
+- Email: vshchurov.dev@gmail.com
+- LinkedIn: [linkedin.com/in/viacheslav-shchurov](https://linkedin.com/in/viacheslav-shchurov)
